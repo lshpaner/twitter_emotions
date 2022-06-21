@@ -1,5 +1,5 @@
 # twitter_emotions
 
 <p align = "center">
-  <img src="https://www.lovethispic.com/image/9819/feelings">
+  <img src="https://www.lovethispic.com/uploaded_images/9819-Feelings.gif?1">
 </p>
