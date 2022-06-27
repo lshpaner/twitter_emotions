@@ -1,4 +1,4 @@
-# Classying Emotions in Tweets
+# Classifying Emotions in Tweets
 
 <p align = "center">
   <img src="https://beta.techcrunch.com/wp-content/uploads/2014/10/emojifast.gif">
@@ -15,5 +15,23 @@ To use this project, first clone the repo on your device using the commands belo
 `git init`
 
 `git clone https://github.com/lshpaner/twitter_emotions.git`
+
+### Partner(s)/Contributor(s)  
+**Authors:**  
+* [Leonid Shpaner](https://github.com/lshpaner)  
+* [Jose Luis Estrada](https://github.com/jose-luis-estrada)  
+* [Christopher Robinson](https://github.com/ChrisRobinsonUSD)  
+
+### Methods  
+* Data exploration    
+* Pre-processing  
+* Data visualization    
+* Descriptive statistics  
+* Data modeling metrics  
+* Sentiment ANalysis  
+* Text Mining  
+* Topic Modeling  
+* Tokenization  
+* Word Clouds
 
 ### Project Intro/Objective
