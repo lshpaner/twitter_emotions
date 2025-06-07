@@ -6,7 +6,7 @@
 
 This project is a part of the ADS-509 Applied Text Mining course in the Applied Data Science Program at the University of San Diego. 
 
-### Project Status: in progress
+### Project Status: completed
 
 ### Installation
 
